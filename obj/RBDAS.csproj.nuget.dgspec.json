@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\RBDAS\\RBDAS.csproj": {}
+    "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\RBDAS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\RBDAS\\RBDAS.csproj": {
+    "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\RBDAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\RBDAS\\RBDAS.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\RBDAS.csproj",
         "projectName": "RBDAS",
-        "projectPath": "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\RBDAS\\RBDAS.csproj",
+        "projectPath": "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\RBDAS.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\RBDAS\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Documents\\GitHub\\RBDAS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -55,19 +55,19 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.4.0, )"
+              "version": "[8.4.2, )"
             },
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
-              "version": "[10.0.1, )"
+              "version": "[10.0.14, )"
             },
             "WPF-UI": {
               "target": "Package",
-              "version": "[4.2.0, )"
+              "version": "[4.3.0, )"
             },
             "WPF-UI.DependencyInjection": {
               "target": "Package",
-              "version": "[4.2.0, )"
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
